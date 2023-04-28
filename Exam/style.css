@@ -1,0 +1,61 @@
+body {
+    background-color: #4d4d4d;
+}
+
+
+.SE {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    position: absolute;
+    left: 600px;
+    top: 200px;
+
+  }
+  
+  .SE input[type="text"] {
+    padding: 10px;
+    border: none;
+    font-size: 17px;
+    width: 300px;
+    height: 30px;
+    border: solid;
+    position: relative;
+  }
+  
+  .SE button {
+    padding: 10px;
+    background: black;
+    color: white;
+    font-size: 20px;
+    left: 325px;
+    border: none;
+    cursor: pointer;
+    border: solid;
+    border-color: black;
+    position: absolute;
+  }
+  
+  .SE button:hover {
+    background: grey;
+  }
+
+  p {
+    font-size: 30px;
+    right: 200px;
+    top: 150px;
+    position: relative;
+  }
+  .si {
+    font-size: 20px;
+  }
+
+  img {
+    width: 300px;
+    height: 350px;
+    position: fixed;
+    top: 300px;
+    left: 1000px;
+  }
+
+  
